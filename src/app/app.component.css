@@ -1,0 +1,7 @@
+div.image{
+    background-image: url(/assets/dist/img/welcome_to.png);
+    background-repeat: no-repeat;
+    width: 1300px;
+    height: 635px;
+    margin-right: auto;
+    }
